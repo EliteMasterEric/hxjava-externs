@@ -1,0 +1,3 @@
+[submodule "in/slf4j"]
+	path = in/slf4j
+	url = https://github.com/qos-ch/slf4j

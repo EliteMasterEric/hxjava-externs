@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk1.8.0_351\bin\java.exe" -jar java-haxe-extern-creator.jar -source ./in/slf4j/slf4j-api/src/main/java -output ./out/hxjava-slf4j/src/ -packages org.slf4j

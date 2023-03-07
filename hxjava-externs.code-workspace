@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Java/java-haxe-extern-creator"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"c:\\Program Files\\Java\\jdk1.8.0_351\\lib\\tools.jar"
+		]
+	}
+}
